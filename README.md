@@ -1,1 +1,2 @@
-# Mission-to-Mars
+# Mission to Mars
+The purpose of this project was to use BeautifulSoup and Splinter to scrape data about Mars from various sites.  MongoDB was used to store the data and Flask to create the web app.  The website was then updated to be more mobile-responsive.
